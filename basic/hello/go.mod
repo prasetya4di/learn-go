@@ -12,4 +12,4 @@ require (
 	rsc.io/sampler v1.3.0 // indirect
 )
 
-replace greetings => ../greetings
+replace greetings => ./../greetings
